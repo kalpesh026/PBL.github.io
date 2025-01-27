@@ -9,7 +9,7 @@
           </h1>
           <h2>Welcome to ELECTROHUB</h2>
       </p>
-          <p>
+          <p><img src="">
               
   </body>
 </html>
