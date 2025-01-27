@@ -7,7 +7,7 @@
           <h1>
               Heyy... there!!!
           </h1>
-          <h2>Welcome to ELECTROHUB</h2>
+          <h2>Welcome to <i>ELECTROHUB</i></h2>
       </p>
           <p><img src="images.png">
               
